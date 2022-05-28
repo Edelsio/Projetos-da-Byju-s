@@ -93,13 +93,13 @@ function handleButtonPress() {
     break();
   }, 1500);*/
 
-  jointLink.dettac();
+  /*jointLink.dettac();
   setTimeout(() => {
     bridge.break();
-  }, 5);
+  }, 5);*/
 
-  /*jointLink.dettach();
+  jointLink.dettach();
   setTimeout(() => {
     bridge.break();
-  }, 1500);*/
+  }, 1500);
 }
